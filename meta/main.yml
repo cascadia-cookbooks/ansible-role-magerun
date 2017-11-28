@@ -1,0 +1,24 @@
+---
+
+galaxy_info:
+  author: Cascadia Cookbooks
+  description: Installation and management of n98-magerun
+  company: Cascadia Cookbooks
+  license: GPLv3
+  min_ansible_version: 2.0
+  platforms:
+    - name: RHEL/CentOS
+      versions:
+        - 7
+    - name: Ubuntu
+      versions:
+        - Xenial
+  galaxy_tags:
+    - magento
+    - magento2
+    - magerun
+    - n98-magerun
+    - n98-magerun2
+    - php
+
+  dependencies: []
